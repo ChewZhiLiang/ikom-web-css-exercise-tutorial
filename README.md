@@ -1,2 +1,2 @@
-# ikom-web-css-exercise-tutorial
+# web-css-exercises
 tutorial week 5
